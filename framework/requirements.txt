@@ -1,5 +1,5 @@
 aiohappyeyeballs==2.6.1
-aiohttp==3.13.3
+aiohttp==3.14.4
 aiosignal==1.4.0
 anyio==4.1.0
 asgiref==3.7.2
@@ -7,7 +7,7 @@ async-timeout==5.0.1
 asyncinotify==4.3.2
 attrs==23.1.0
 cachetools==4.1.0
-certifi==2024.7.4
+certifi==2026.10.18
 cffi==2.0.0
 charset-normalizer==2.0.4
 click==8.1.3
@@ -43,17 +43,17 @@ propcache==0.4.1
 protobuf==6.33.5
 psutil==6.1.1
 pycparser==2.21
-PyJWT==2.12.0
+PyJWT==2.15.0
 python-dateutil==2.8.1
 python-json-logger==2.0.2
 python-multipart==0.0.22
 PyYAML==6.0.3
 referencing==0.31.1
-requests==2.32.4
+requests==2.33.0
 rfc3339-validator==0.1.4
 rpds-py==0.15.2
 secure==0.3.0
-setuptools==80.10.2
+setuptools==84.1.0
 six==1.16.0
 sniffio==1.3.0
 SQLAlchemy==2.0.23

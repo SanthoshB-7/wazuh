@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'evtx==0.8.2',
-        'requests==2.32.3',
+        'requests==2.33.0',
     ],
     entry_points={
         'console_scripts': [
